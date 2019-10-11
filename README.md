@@ -1,4 +1,4 @@
-# flutter_dicee
+# Quote Generator
 
 A new Flutter project.
 
